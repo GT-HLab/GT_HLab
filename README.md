@@ -1,4 +1,3 @@
-# GT_HLab
 # Gauthier Delbarre
 
 Quantitative finance and applied AI. CQF, former nuclear safety engineer, now working at the intersection of investment analytics and LLM systems.
